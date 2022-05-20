@@ -21,6 +21,10 @@ set number
 set background=dark
 set laststatus=2
 
+" 80 Line marker
+highlight ColorColumn ctermbg=3*
+set colorcolumn=80
+
 " Other
 set history=1000
 set title
