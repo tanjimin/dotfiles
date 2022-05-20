@@ -22,7 +22,7 @@ set background=dark
 set laststatus=2
 
 " 80 Line marker
-highlight ColorColumn ctermbg=3*
+highlight ColorColumn ctermbg=2*
 set colorcolumn=80
 
 " Other
